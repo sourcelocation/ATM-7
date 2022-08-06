@@ -1671,7 +1671,7 @@
 			y: 0.0d
 			subtitle: "Leads to creating an ore FACTORY."
 			description: [
-				"The Enrichment Chamber turns 3 Raw ores into 4 dusts. This gives you about 25% more ingots."
+				"The Enrichment Chamber turns 3 Raw ores into 4 dusts. This gives 33.3% more ingots."
 				""
 				"Mekanism also has a progression system that helps you create a factory that can give you even MORE from your raw ore."
 			]
